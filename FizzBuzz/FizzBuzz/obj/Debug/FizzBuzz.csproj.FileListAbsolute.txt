@@ -1,0 +1,9 @@
+C:\Users\Musa\Desktop\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Musa\Desktop\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Musa\Desktop\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Musa\Desktop\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Musa\Desktop\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Musa\Desktop\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+F:\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+F:\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+F:\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
